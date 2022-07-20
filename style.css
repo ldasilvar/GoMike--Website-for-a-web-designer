@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .8);
 }
 
 .d-bloc .panel button:hover,
@@ -720,6 +720,7 @@ h3 {
 
 .quote{
     font-size: 17px!important;
+   
 }
 .med-width-whitespace {
     max-width: 800px;
