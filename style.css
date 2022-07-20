@@ -706,7 +706,8 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-family: helvetica;
+    font-size: 28px;
     line-height: 1.4em;
 }
 
@@ -717,6 +718,9 @@ h3 {
     color: #333333!important;
 }
 
+.quote{
+    font-size: 17px!important;
+}
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
