@@ -694,7 +694,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -810,12 +810,18 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #364577!important;
+    color: #1A233C!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
+}
+
+.col-sm-6 {
+    font-size: 20px;
+    font-weight: 600;
+
 }
 
 .ltc-white {
