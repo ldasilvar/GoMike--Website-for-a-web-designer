@@ -1084,4 +1084,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    .img-responsive portfolio-thumb{
+        margin-left: 50px;    
+    }
+ 
 }
